@@ -1,0 +1,12 @@
+[project]
+name = "htn-viewport-tracker"
+version = "0.0.1"
+dependencies = [
+    "opencv-python",
+    "numpy",
+    "tqdm",
+    "ffmpeg-python"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
