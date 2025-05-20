@@ -53,7 +53,7 @@ htn-viewport-tracker/
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/Ahmadshahzad2/sports_motion_detection.git
 cd hometeam_ai_assignment
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt      # opencv-python, numpy, tqdm, ffmpeg-python
